@@ -16,8 +16,8 @@ public class CheckName extends Browser {
 		
 		//obj.clickname();
 		//obj.clickonmyprofile();
-		
-		//Thread.sleep(5000);
+		String testname="Rutwik";
+
 		
 //		String expectedname="Rutwik Kulkarni";
 //		String actualname=obj.getmyname();

@@ -11,6 +11,7 @@ public class nametest {
 	private By middlenamelocator = By.xpath("//span[contains(text(),'Raju Lunawath')]");
 	private By closeloginlocator = By.xpath("//button[@class='_2KpZ6l _2doB4z']");
 
+
 	private WebDriver driver;
 
 	public nametest(WebDriver driver) {
